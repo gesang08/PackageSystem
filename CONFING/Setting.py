@@ -31,3 +31,32 @@ PASSWORD = '12345678'
 DB = 'gs_package'
 PORT = 3306
 CHARSET = 'utf8'
+
+"""
+从数据库获得part信息列表的各index
+part信息列表格式：
+[Contract_id, Order_id, Sec_id, Part_id, Door_type, Door_height, Door_width, Door_thick, Package_state, Element_type_id]
+例如：
+['48', '48O43', '48O43S55', '48O43S55P694', 'MY_1777_橱柜门', 797.0, 458.0, 18, 0, 1]
+"""
+contract_id_index = 0
+order_id_index = 1
+sec_id_index = 2
+part_id_index = 3
+door_type_index = 4
+part_length_index = 5  # 部件高是为长length
+part_width_index = 6
+part_thickness_index = 7
+package_state_index = 8
+element_type_id_index = 9
+"""
+从数据库获得纸箱box信息列表的各index
+part信息列表格式：
+[Box_type, Box_long, Box_short, Box_height]
+例如：
+['BT650', 650, 450, 268]
+"""
+box_type_index = 0
+box_length_index = 1
+box_width_index = 2
+box_height_index = 3
