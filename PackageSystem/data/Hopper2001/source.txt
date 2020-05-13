@@ -1,0 +1,6 @@
+Hopper2001年发表的文章
+An empirical investigation of meta-heuristic and heuristic algorithms for a 2D packing problem
+
+由于每个Ci的数据集都有P1、P2、P3，一些论文将这些数据集名称写做C11、C12、C13、C21、C22、C23...、C71，C72，C73，但还是称为7个算例，C1-C7算例和N1-N13算例数据集在理论上都存在空间利用率为100%的填装状态。
+
+该数据集不是叫做C数据集，而是叫做C21数据集（7*3=21,21表示总共 有21个实例）

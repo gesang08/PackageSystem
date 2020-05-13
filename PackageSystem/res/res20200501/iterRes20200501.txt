@@ -1,0 +1,350 @@
+========================>2020-05-01 16-39-14	N5<========================
+iterTime	volumeRate	crossRate	mutateRate	algo_time
+1	1.0	0.85	0.6	1.0231497287750244
+========================>solution<========================
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 0, 1, 10, 11, 1, 1, '1O1S1P8'), 'part_num': 1, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (10, 0, 1, 6, 8, 1, 1, '1O1S1P41'), 'part_num': 2, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 0, 1, 10, 46, 1, 1, '1O1S1P17'), 'part_num': 3, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (26, 0, 1, 6, 27, 1, 1, '1O1S1P37'), 'part_num': 4, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (32, 0, 1, 53, 7, 1, 0, '1O1S1P11'), 'part_num': 5, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (85, 0, 1, 10, 7, 1, 0, '1O1S1P2'), 'part_num': 6, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (10, 8, 1, 6, 74, 1, 1, '1O1S1P13'), 'part_num': 7, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (32, 8, 1, 10, 11, 1, 1, '1O1S1P22'), 'part_num': 8, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 19, 1, 11, 6, 1, 0, '1O1S1P35'), 'part_num': 9, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (32, 19, 1, 8, 10, 1, 1, '1O1S1P25'), 'part_num': 10, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (27, 19, 1, 6, 8, 1, 1, '1O1S1P45'), 'part_num': 11, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (40, 19, 1, 9, 7, 1, 0, '1O1S1P44'), 'part_num': 12, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (33, 19, 1, 6, 23, 1, 1, '1O1S1P49'), 'part_num': 13, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (49, 19, 1, 8, 26, 1, 1, '1O1S1P9'), 'part_num': 14, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (39, 19, 1, 6, 39, 1, 1, '1O1S1P16'), 'part_num': 15, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (57, 19, 1, 26, 6, 1, 0, '1O1S1P34'), 'part_num': 16, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (45, 19, 1, 10, 25, 1, 1, '1O1S1P1'), 'part_num': 17, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (83, 19, 1, 6, 6, 1, 0, '1O1S1P15'), 'part_num': 18, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (55, 19, 1, 10, 8, 1, 0, '1O1S1P43'), 'part_num': 19, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 25, 1, 22, 16, 1, 1, '1O1S1P24'), 'part_num': 20, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 26, 1, 14, 6, 1, 0, '1O1S1P28'), 'part_num': 21, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 27, 1, 10, 7, 1, 1, '1O1S1P50'), 'part_num': 22, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 29, 1, 36, 6, 1, 1, '1O1S1P12'), 'part_num': 23, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 32, 1, 18, 6, 1, 1, '1O1S1P20'), 'part_num': 24, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 34, 1, 16, 6, 1, 1, '1O1S1P42'), 'part_num': 25, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 35, 1, 7, 6, 1, 0, '1O1S1P32'), 'part_num': 26, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 38, 1, 20, 14, 1, 0, '1O1S1P27'), 'part_num': 27, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 40, 1, 27, 19, 1, 1, '1O1S1P7'), 'part_num': 28, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 41, 1, 7, 6, 1, 1, '1O1S1P38'), 'part_num': 29, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 42, 1, 7, 6, 1, 0, '1O1S1P39'), 'part_num': 30, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 44, 1, 8, 6, 1, 1, '1O1S1P36'), 'part_num': 31, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 45, 1, 7, 6, 1, 1, '1O1S1P3'), 'part_num': 32, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 46, 1, 10, 6, 1, 0, '1O1S1P31'), 'part_num': 33, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 47, 1, 25, 10, 1, 0, '1O1S1P6'), 'part_num': 34, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 48, 1, 10, 6, 1, 1, '1O1S1P5'), 'part_num': 35, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 50, 1, 10, 6, 1, 1, '1O1S1P40'), 'part_num': 36, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 51, 1, 14, 8, 1, 1, '1O1S1P33'), 'part_num': 37, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 52, 1, 20, 6, 1, 1, '1O1S1P21'), 'part_num': 38, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 54, 1, 9, 6, 1, 0, '1O1S1P29'), 'part_num': 39, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 56, 1, 15, 6, 1, 1, '1O1S1P48'), 'part_num': 40, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 57, 1, 48, 7, 1, 1, '1O1S1P19'), 'part_num': 41, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 58, 1, 10, 6, 1, 0, '1O1S1P23'), 'part_num': 42, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 59, 1, 10, 6, 1, 1, '1O1S1P30'), 'part_num': 43, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 60, 1, 31, 10, 1, 1, '1O1S1P46'), 'part_num': 44, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 62, 1, 64, 34, 1, 1, '1O1S1P10'), 'part_num': 45, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 64, 1, 20, 6, 1, 0, '1O1S1P14'), 'part_num': 46, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 65, 1, 74, 8, 1, 1, '1O1S1P4'), 'part_num': 47, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 70, 1, 47, 7, 1, 0, '1O1S1P47'), 'part_num': 48, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 73, 1, 10, 10, 1, 0, '1O1S1P26'), 'part_num': 49, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 77, 1, 7, 6, 1, 0, '1O1S1P18'), 'part_num': 50, 'volume_rate': 1.0},
+
+========================>2020-05-01 16-39-50	N5<========================
+iterTime	volumeRate	crossRate	mutateRate	algo_time
+1	0.97	0.85	0.6	2.887070655822754
+2	0.97	0.85	0.6	2.887070655822754
+3	0.97	0.85	0.6	2.887070655822754
+4	1.0	0.85	0.6	2.887070655822754
+========================>solution<========================
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 0, 1, 6, 11, 1, 1, '1O1S1P35'), 'part_num': 1, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (6, 0, 1, 10, 25, 1, 1, '1O1S1P1'), 'part_num': 2, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 0, 1, 34, 64, 1, 1, '1O1S1P10'), 'part_num': 3, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (50, 0, 1, 7, 48, 1, 1, '1O1S1P19'), 'part_num': 4, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (57, 0, 1, 10, 31, 1, 1, '1O1S1P46'), 'part_num': 5, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (67, 0, 1, 6, 27, 1, 1, '1O1S1P37'), 'part_num': 6, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (73, 0, 1, 6, 20, 1, 1, '1O1S1P21'), 'part_num': 7, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (79, 0, 1, 10, 11, 1, 1, '1O1S1P22'), 'part_num': 8, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (89, 0, 1, 10, 7, 1, 0, '1O1S1P50'), 'part_num': 9, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (89, 7, 1, 7, 6, 1, 0, '1O1S1P32'), 'part_num': 10, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 13, 1, 6, 10, 1, 1, '1O1S1P31'), 'part_num': 11, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (79, 13, 1, 7, 53, 1, 1, '1O1S1P11'), 'part_num': 12, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (22, 13, 1, 7, 47, 1, 1, '1O1S1P47'), 'part_num': 13, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (86, 13, 1, 8, 14, 1, 1, '1O1S1P33'), 'part_num': 14, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (29, 13, 1, 10, 6, 1, 0, '1O1S1P5'), 'part_num': 15, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (94, 13, 1, 6, 10, 1, 1, '1O1S1P30'), 'part_num': 16, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (39, 13, 1, 6, 26, 1, 1, '1O1S1P34'), 'part_num': 17, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 19, 1, 74, 6, 1, 1, '1O1S1P13'), 'part_num': 18, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (29, 19, 1, 7, 6, 1, 0, '1O1S1P38'), 'part_num': 19, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 20, 1, 22, 16, 1, 1, '1O1S1P24'), 'part_num': 20, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 23, 1, 16, 6, 1, 0, '1O1S1P42'), 'part_num': 21, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 25, 1, 7, 6, 1, 0, '1O1S1P3'), 'part_num': 22, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 31, 1, 10, 8, 1, 0, '1O1S1P43'), 'part_num': 23, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 39, 1, 6, 7, 1, 1, '1O1S1P18'), 'part_num': 24, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (29, 39, 1, 6, 8, 1, 1, '1O1S1P41'), 'part_num': 25, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (57, 39, 1, 6, 8, 1, 1, '1O1S1P36'), 'part_num': 26, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (86, 39, 1, 8, 26, 1, 1, '1O1S1P9'), 'part_num': 27, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (6, 39, 1, 10, 10, 1, 1, '1O1S1P26'), 'part_num': 28, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (35, 39, 1, 9, 6, 1, 0, '1O1S1P29'), 'part_num': 29, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (63, 39, 1, 10, 7, 1, 0, '1O1S1P2'), 'part_num': 30, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (94, 39, 1, 6, 10, 1, 1, '1O1S1P23'), 'part_num': 31, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 47, 1, 74, 8, 1, 1, '1O1S1P4'), 'part_num': 32, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (16, 48, 1, 27, 19, 1, 0, '1O1S1P7'), 'part_num': 33, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 55, 1, 14, 20, 1, 1, '1O1S1P27'), 'part_num': 34, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (14, 67, 1, 20, 6, 1, 0, '1O1S1P14'), 'part_num': 35, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (14, 73, 1, 46, 10, 1, 1, '1O1S1P17'), 'part_num': 36, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (60, 73, 1, 10, 6, 1, 0, '1O1S1P40'), 'part_num': 37, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (70, 73, 1, 9, 7, 1, 0, '1O1S1P44'), 'part_num': 38, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (79, 73, 1, 6, 8, 1, 1, '1O1S1P45'), 'part_num': 39, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (60, 79, 1, 36, 6, 1, 0, '1O1S1P12'), 'part_num': 40, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (60, 79, 1, 6, 15, 1, 1, '1O1S1P48'), 'part_num': 41, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (85, 79, 1, 10, 11, 1, 1, '1O1S1P8'), 'part_num': 42, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (60, 80, 1, 18, 6, 1, 1, '1O1S1P20'), 'part_num': 43, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (60, 81, 1, 25, 10, 1, 1, '1O1S1P6'), 'part_num': 44, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 83, 1, 10, 8, 1, 0, '1O1S1P25'), 'part_num': 45, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (10, 85, 1, 39, 6, 1, 0, '1O1S1P16'), 'part_num': 46, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 91, 1, 14, 6, 1, 1, '1O1S1P28'), 'part_num': 47, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (66, 91, 1, 6, 6, 1, 0, '1O1S1P15'), 'part_num': 48, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (14, 91, 1, 7, 6, 1, 0, '1O1S1P39'), 'part_num': 49, 'volume_rate': 1.0},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (72, 91, 1, 23, 6, 1, 0, '1O1S1P49'), 'part_num': 50, 'volume_rate': 1.0},
+
+========================>2020-05-01 16-41-00	N5<========================
+iterTime	volumeRate	crossRate	mutateRate	algo_time
+1	0.6809	0.85	0.6	136.78584837913513
+2	0.7195	0.85	0.6	136.78584837913513
+3	0.7195	0.85	0.6	136.78584837913513
+4	0.7467	0.85	0.6	136.78584837913513
+5	0.7467	0.85	0.6	136.78584837913513
+6	0.7467	0.85	0.6	136.78584837913513
+7	0.7467	0.85	0.6	136.78584837913513
+8	0.7467	0.85	0.6	136.78584837913513
+9	0.7467	0.85	0.6	136.78584837913513
+10	0.7467	0.85	0.6	136.78584837913513
+11	0.7467	0.85	0.6	136.78584837913513
+12	0.7467	0.85	0.6	136.78584837913513
+13	0.7491	0.85	0.6	136.78584837913513
+14	0.7491	0.85	0.6	136.78584837913513
+15	0.7491	0.85	0.6	136.78584837913513
+16	0.7491	0.85	0.6	136.78584837913513
+17	0.7491	0.85	0.6	136.78584837913513
+18	0.7491	0.85	0.6	136.78584837913513
+19	0.7491	0.85	0.6	136.78584837913513
+20	0.7491	0.85	0.6	136.78584837913513
+21	0.7491	0.85	0.6	136.78584837913513
+22	0.7491	0.85	0.6	136.78584837913513
+23	0.7491	0.85	0.6	136.78584837913513
+24	0.7491	0.85	0.6	136.78584837913513
+25	0.7491	0.85	0.6	136.78584837913513
+26	0.7491	0.85	0.6	136.78584837913513
+27	0.7491	0.85	0.6	136.78584837913513
+28	0.7491	0.85	0.6	136.78584837913513
+29	0.7491	0.85	0.6	136.78584837913513
+30	0.7491	0.85	0.6	136.78584837913513
+31	0.7491	0.85	0.6	136.78584837913513
+32	0.7491	0.85	0.6	136.78584837913513
+33	0.7491	0.85	0.6	136.78584837913513
+34	0.7491	0.85	0.6	136.78584837913513
+35	0.7491	0.85	0.6	136.78584837913513
+36	0.7491	0.85	0.6	136.78584837913513
+37	0.7491	0.85	0.6	136.78584837913513
+38	0.7491	0.85	0.6	136.78584837913513
+39	0.7491	0.85	0.6	136.78584837913513
+40	0.7491	0.85	0.6	136.78584837913513
+41	0.7491	0.85	0.6	136.78584837913513
+42	0.7491	0.85	0.6	136.78584837913513
+43	0.7491	0.85	0.6	136.78584837913513
+44	0.7491	0.85	0.6	136.78584837913513
+45	0.7491	0.85	0.6	136.78584837913513
+46	0.7541	0.85	0.6	136.78584837913513
+47	0.7541	0.85	0.6	136.78584837913513
+48	0.7541	0.85	0.6	136.78584837913513
+49	0.7541	0.85	0.6	136.78584837913513
+50	0.7541	0.85	0.6	136.78584837913513
+51	0.7541	0.85	0.6	136.78584837913513
+52	0.7541	0.85	0.6	136.78584837913513
+53	0.7541	0.85	0.6	136.78584837913513
+54	0.7541	0.85	0.6	136.78584837913513
+55	0.7541	0.85	0.6	136.78584837913513
+56	0.7541	0.85	0.6	136.78584837913513
+57	0.7541	0.85	0.6	136.78584837913513
+58	0.7541	0.85	0.6	136.78584837913513
+59	0.7541	0.85	0.6	136.78584837913513
+60	0.7541	0.85	0.6	136.78584837913513
+61	0.7541	0.85	0.6	136.78584837913513
+62	0.7541	0.85	0.6	136.78584837913513
+63	0.7541	0.85	0.6	136.78584837913513
+64	0.7541	0.85	0.6	136.78584837913513
+65	0.7541	0.85	0.6	136.78584837913513
+66	0.7571	0.85	0.6	136.78584837913513
+67	0.7571	0.85	0.6	136.78584837913513
+68	0.7571	0.85	0.6	136.78584837913513
+69	0.7571	0.85	0.6	136.78584837913513
+70	0.7571	0.85	0.6	136.78584837913513
+71	0.7571	0.85	0.6	136.78584837913513
+72	0.7571	0.85	0.6	136.78584837913513
+73	0.7571	0.85	0.6	136.78584837913513
+74	0.7571	0.85	0.6	136.78584837913513
+75	0.7571	0.85	0.6	136.78584837913513
+76	0.7571	0.85	0.6	136.78584837913513
+77	0.7571	0.85	0.6	136.78584837913513
+78	0.7571	0.85	0.6	136.78584837913513
+79	0.7571	0.85	0.6	136.78584837913513
+80	0.7571	0.85	0.6	136.78584837913513
+81	0.7571	0.85	0.6	136.78584837913513
+82	0.7571	0.85	0.6	136.78584837913513
+83	0.7571	0.85	0.6	136.78584837913513
+84	0.7571	0.85	0.6	136.78584837913513
+85	0.7571	0.85	0.6	136.78584837913513
+86	0.7571	0.85	0.6	136.78584837913513
+87	0.7571	0.85	0.6	136.78584837913513
+88	0.7571	0.85	0.6	136.78584837913513
+89	0.7571	0.85	0.6	136.78584837913513
+90	0.7571	0.85	0.6	136.78584837913513
+91	0.7571	0.85	0.6	136.78584837913513
+92	0.7571	0.85	0.6	136.78584837913513
+93	0.7571	0.85	0.6	136.78584837913513
+94	0.7633	0.85	0.6	136.78584837913513
+95	0.7633	0.85	0.6	136.78584837913513
+96	0.7633	0.85	0.6	136.78584837913513
+97	0.7633	0.85	0.6	136.78584837913513
+98	0.7633	0.85	0.6	136.78584837913513
+99	0.7633	0.85	0.6	136.78584837913513
+100	0.7633	0.85	0.6	136.78584837913513
+101	0.7633	0.85	0.6	136.78584837913513
+102	0.7633	0.85	0.6	136.78584837913513
+103	0.7633	0.85	0.6	136.78584837913513
+104	0.7633	0.85	0.6	136.78584837913513
+105	0.7633	0.85	0.6	136.78584837913513
+106	0.7633	0.85	0.6	136.78584837913513
+107	0.7633	0.85	0.6	136.78584837913513
+108	0.7633	0.85	0.6	136.78584837913513
+109	0.7633	0.85	0.6	136.78584837913513
+110	0.7633	0.85	0.6	136.78584837913513
+111	0.7633	0.85	0.6	136.78584837913513
+112	0.7633	0.85	0.6	136.78584837913513
+113	0.7633	0.85	0.6	136.78584837913513
+114	0.7633	0.85	0.6	136.78584837913513
+115	0.7633	0.85	0.6	136.78584837913513
+116	0.7633	0.85	0.6	136.78584837913513
+117	0.7633	0.85	0.6	136.78584837913513
+118	0.7633	0.85	0.6	136.78584837913513
+119	0.7633	0.85	0.6	136.78584837913513
+120	0.7633	0.85	0.6	136.78584837913513
+121	0.7633	0.85	0.6	136.78584837913513
+122	0.7633	0.85	0.6	136.78584837913513
+123	0.7633	0.85	0.6	136.78584837913513
+124	0.7633	0.85	0.6	136.78584837913513
+125	0.7633	0.85	0.6	136.78584837913513
+126	0.7633	0.85	0.6	136.78584837913513
+127	0.7633	0.85	0.6	136.78584837913513
+128	0.7633	0.85	0.6	136.78584837913513
+129	0.7633	0.85	0.6	136.78584837913513
+130	0.7633	0.85	0.6	136.78584837913513
+131	0.7633	0.85	0.6	136.78584837913513
+132	0.7633	0.85	0.6	136.78584837913513
+133	0.7633	0.85	0.6	136.78584837913513
+134	0.7633	0.85	0.6	136.78584837913513
+135	0.7633	0.85	0.6	136.78584837913513
+136	0.7633	0.85	0.6	136.78584837913513
+137	0.7633	0.85	0.6	136.78584837913513
+138	0.7633	0.85	0.6	136.78584837913513
+139	0.7633	0.85	0.6	136.78584837913513
+140	0.7633	0.85	0.6	136.78584837913513
+141	0.7633	0.85	0.6	136.78584837913513
+142	0.7633	0.85	0.6	136.78584837913513
+143	0.7633	0.85	0.6	136.78584837913513
+144	0.7633	0.85	0.6	136.78584837913513
+145	0.7633	0.85	0.6	136.78584837913513
+146	0.7633	0.85	0.6	136.78584837913513
+147	0.7633	0.85	0.6	136.78584837913513
+148	0.7633	0.85	0.6	136.78584837913513
+149	0.7633	0.85	0.6	136.78584837913513
+150	0.7633	0.85	0.6	136.78584837913513
+151	0.7633	0.85	0.6	136.78584837913513
+152	0.7633	0.85	0.6	136.78584837913513
+153	0.7633	0.85	0.6	136.78584837913513
+154	0.7633	0.85	0.6	136.78584837913513
+155	0.7633	0.85	0.6	136.78584837913513
+156	0.7633	0.85	0.6	136.78584837913513
+157	0.7633	0.85	0.6	136.78584837913513
+158	0.7633	0.85	0.6	136.78584837913513
+159	0.7633	0.85	0.6	136.78584837913513
+160	0.7633	0.85	0.6	136.78584837913513
+161	0.7633	0.85	0.6	136.78584837913513
+162	0.7633	0.85	0.6	136.78584837913513
+163	0.7633	0.85	0.6	136.78584837913513
+164	0.7633	0.85	0.6	136.78584837913513
+165	0.7633	0.85	0.6	136.78584837913513
+166	0.7633	0.85	0.6	136.78584837913513
+167	0.7633	0.85	0.6	136.78584837913513
+168	0.7633	0.85	0.6	136.78584837913513
+169	0.7633	0.85	0.6	136.78584837913513
+170	0.7633	0.85	0.6	136.78584837913513
+171	0.7633	0.85	0.6	136.78584837913513
+172	0.7633	0.85	0.6	136.78584837913513
+173	0.7633	0.85	0.6	136.78584837913513
+174	0.7633	0.85	0.6	136.78584837913513
+175	0.7633	0.85	0.6	136.78584837913513
+176	0.7633	0.85	0.6	136.78584837913513
+177	0.7633	0.85	0.6	136.78584837913513
+178	0.7671	0.85	0.6	136.78584837913513
+179	0.7671	0.85	0.6	136.78584837913513
+180	0.7671	0.85	0.6	136.78584837913513
+181	0.7671	0.85	0.6	136.78584837913513
+182	0.7671	0.85	0.6	136.78584837913513
+183	0.7671	0.85	0.6	136.78584837913513
+184	0.7671	0.85	0.6	136.78584837913513
+185	0.7671	0.85	0.6	136.78584837913513
+186	0.7671	0.85	0.6	136.78584837913513
+187	0.7671	0.85	0.6	136.78584837913513
+188	0.7671	0.85	0.6	136.78584837913513
+189	0.7671	0.85	0.6	136.78584837913513
+190	0.7671	0.85	0.6	136.78584837913513
+191	0.7671	0.85	0.6	136.78584837913513
+192	0.7671	0.85	0.6	136.78584837913513
+193	0.7671	0.85	0.6	136.78584837913513
+194	0.7671	0.85	0.6	136.78584837913513
+195	0.7671	0.85	0.6	136.78584837913513
+196	0.7671	0.85	0.6	136.78584837913513
+197	0.7671	0.85	0.6	136.78584837913513
+198	0.7671	0.85	0.6	136.78584837913513
+199	0.7671	0.85	0.6	136.78584837913513
+200	0.7671	0.85	0.6	136.78584837913513
+========================>solution<========================
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 0, 1, 6, 10, 1, 1, '1O1S1P40'), 'part_num': 1, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (6, 0, 1, 47, 7, 1, 0, '1O1S1P47'), 'part_num': 2, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (53, 0, 1, 6, 18, 1, 1, '1O1S1P20'), 'part_num': 3, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (59, 0, 1, 6, 7, 1, 1, '1O1S1P32'), 'part_num': 4, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (65, 0, 1, 7, 53, 1, 1, '1O1S1P11'), 'part_num': 5, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (72, 0, 1, 20, 6, 1, 0, '1O1S1P14'), 'part_num': 6, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (92, 0, 1, 8, 10, 1, 1, '1O1S1P25'), 'part_num': 7, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (72, 6, 1, 6, 26, 1, 1, '1O1S1P34'), 'part_num': 8, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (6, 7, 1, 31, 10, 1, 0, '1O1S1P46'), 'part_num': 9, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (59, 7, 1, 6, 10, 1, 1, '1O1S1P23'), 'part_num': 10, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (78, 7, 1, 8, 74, 1, 1, '1O1S1P4'), 'part_num': 11, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 18, 1, 64, 34, 1, 0, '1O1S1P10'), 'part_num': 12, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (86, 18, 1, 6, 39, 1, 1, '1O1S1P16'), 'part_num': 13, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 52, 1, 8, 26, 1, 1, '1O1S1P9'), 'part_num': 14, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (8, 53, 1, 10, 25, 1, 1, '1O1S1P1'), 'part_num': 15, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (18, 57, 1, 36, 6, 1, 0, '1O1S1P12'), 'part_num': 16, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (86, 57, 1, 6, 20, 1, 1, '1O1S1P21'), 'part_num': 17, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (54, 57, 1, 8, 6, 1, 0, '1O1S1P45'), 'part_num': 18, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (18, 63, 1, 23, 6, 1, 0, '1O1S1P49'), 'part_num': 19, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (92, 63, 1, 8, 10, 1, 1, '1O1S1P43'), 'part_num': 20, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (41, 63, 1, 15, 6, 1, 0, '1O1S1P48'), 'part_num': 21, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (18, 69, 1, 48, 7, 1, 0, '1O1S1P19'), 'part_num': 22, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (18, 76, 1, 46, 10, 1, 0, '1O1S1P17'), 'part_num': 23, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (92, 76, 1, 7, 9, 1, 1, '1O1S1P44'), 'part_num': 24, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (64, 76, 1, 6, 7, 1, 1, '1O1S1P18'), 'part_num': 25, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (0, 78, 1, 10, 11, 1, 1, '1O1S1P8'), 'part_num': 26, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (10, 86, 1, 11, 10, 1, 0, '1O1S1P22'), 'part_num': 27, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (21, 86, 1, 20, 14, 1, 0, '1O1S1P27'), 'part_num': 28, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (41, 86, 1, 7, 10, 1, 1, '1O1S1P2'), 'part_num': 29, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (48, 86, 1, 6, 11, 1, 1, '1O1S1P35'), 'part_num': 30, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (54, 86, 1, 27, 6, 1, 0, '1O1S1P37'), 'part_num': 31, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (81, 86, 1, 10, 10, 1, 0, '1O1S1P26'), 'part_num': 32, 'volume_rate': 0.7671},
+{'section_id': '1O1S1', 'box_type': 'BT100X100', 'box_length': 100, 'box_width': 100, 'box_height': 1, 'solution': (91, 86, 1, 6, 14, 1, 1, '1O1S1P28'), 'part_num': 33, 'volume_rate': 0.7671},
+
